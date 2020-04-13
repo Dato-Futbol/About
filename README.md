@@ -1,6 +1,9 @@
-**DATO FUTBOL** is a project focused on get a deeper knowledge in the field of Football Analytics. 
+### Dato Fútbol
 
-I've been developing different resources related to, like the [**Blog**](http://datofutbol.cl), which was created using [**RStudio**](https://www.rstudio.com).
+This is the repository of **Dato Fútbol**
+(The previous repository here: https://github.com/Bustami/DatoFutbol)
+
+**DATO FUTBOL** is a project focused on getting a deeper knowledge in the field of Football Analytics. This way I've been developing different resources related to, like the [**Blog**](http://datofutbol.cl) which was created using [**RStudio**](https://www.rstudio.com).
 
 ##### Another resources here:
 
