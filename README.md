@@ -1,6 +1,6 @@
 ### Dato Fútbol
 
-This is the repository of **Dato Fútbol**
+This is the new repository of **Dato Fútbol**
 (The previous repository here: https://github.com/Bustami/DatoFutbol)
 
 **DATO FUTBOL** is a project focused on getting a deeper knowledge in the field of Football Analytics. This way I've been developing different resources related to, like [**this blog**](http://datofutbol.cl).
